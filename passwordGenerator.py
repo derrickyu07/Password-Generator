@@ -42,7 +42,7 @@ while (True):
     if (syms == "Y"):
         all += symbols
         break
-    elif(upper == "N"):        
+    elif(syms == "N"):        
         break
     else:
         print("Invalid Input")
@@ -58,9 +58,9 @@ while (True):
 while (True):
     remove = input("Are there any upper case letters, lower case letters, digits, or symbols that are not accepted? Y or N.  ")
     if (remove == "Y"):
-        letter = input("Type the upper case letter, lower case letter, digit, or symbol: ")
+        letter = str(input("Type the upper case letter, lower case letter, digit, or symbol: "))
         try:
-            all.remove(letter)
+            all.replace(letter,'')
         except:
             print("Invalid Input")
     elif(remove == "N"):
