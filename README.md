@@ -14,7 +14,7 @@ Password-Generator simply creates passwords for the user. The user is able to cu
 
 ## Screenshots
 
-![Figure 1](C:\Users\derri\Personal Projects\Screenshot 2023-05-06 232117.png)
+![Figure 1](https://github.com/derrickyu07/Password-Generator/blob/main/Screenshot%202023-05-06%20232117.png?raw=true)
 
 ## Technologies
 
