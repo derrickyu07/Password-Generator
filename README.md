@@ -14,7 +14,7 @@ Password-Generator simply creates passwords for the user. The user is able to cu
 
 ## Screenshots
 
-![alt text](http://url/to/img.png)
+![Figure 1](C:\Users\derri\Personal Projects\Screenshot 2023-05-06 232117.png)
 
 ## Technologies
 
